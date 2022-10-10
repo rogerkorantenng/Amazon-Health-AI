@@ -1,0 +1,1339 @@
+,Unnamed: 0,age,sex,bmi,children,smoker,region,insurance_type
+0,0,19,female,27.9,0,yes,Greater Accra Region,public (Governemnt)
+1,1,18,male,33.8,1,no,Ashanti Region,private
+2,2,28,male,33.0,3,no,Ashanti Region,private
+3,3,33,male,22.7,0,no,Northern Region,private
+4,4,32,male,28.9,0,no,Northern Region,private
+5,5,31,female,25.7,0,no,Ashanti Region,public (Governemnt)
+6,6,46,female,33.4,1,no,Ashanti Region,public (Governemnt)
+7,7,37,female,27.7,3,no,Northern Region,public (Governemnt)
+8,8,37,male,29.8,2,no,Central Region,private
+9,9,60,female,25.8,0,no,Northern Region,public (Governemnt)
+10,10,25,male,26.2,0,no,Central Region,private
+11,11,62,female,26.3,0,yes,Ashanti Region,public (Governemnt)
+12,12,23,male,34.4,0,no,Greater Accra Region,private
+13,13,56,female,39.8,0,no,Ashanti Region,public (Governemnt)
+14,14,27,male,42.1,0,yes,Ashanti Region,private
+15,15,19,male,24.6,1,no,Greater Accra Region,private
+16,16,52,female,30.8,1,no,Central Region,public (Governemnt)
+17,17,23,male,23.8,0,no,Central Region,private
+18,18,56,male,40.3,0,no,Greater Accra Region,private
+19,19,30,male,35.3,0,yes,Greater Accra Region,private
+20,20,60,female,36.0,0,no,Central Region,public (Governemnt)
+21,21,30,female,32.4,1,no,Greater Accra Region,public (Governemnt)
+22,22,18,male,34.1,0,no,Ashanti Region,private
+23,23,34,female,31.9,1,yes,Central Region,public (Governemnt)
+24,24,37,male,28.0,2,no,Northern Region,private
+25,25,59,female,27.7,3,no,Ashanti Region,public (Governemnt)
+26,26,63,female,23.1,0,no,Central Region,public (Governemnt)
+27,27,55,female,32.8,2,no,Northern Region,public (Governemnt)
+28,28,23,trans,17.4,1,no,Northern Region,public (Governemnt)
+29,29,31,trans,36.3,2,yes,Greater Accra Region,public (Governemnt)
+30,30,22,trans,35.6,0,yes,Greater Accra Region,public (Governemnt)
+31,31,18,female,26.3,0,no,Central Region,public (Governemnt)
+32,32,19,female,28.6,5,no,Greater Accra Region,public (Governemnt)
+33,33,63,trans,28.3,0,no,Northern Region,public (Governemnt)
+34,34,28,male,36.4,1,yes,Greater Accra Region,private
+35,35,19,male,20.4,0,no,Northern Region,private
+36,36,62,female,33.0,3,no,Northern Region,public (Governemnt)
+37,37,26,male,20.8,0,no,Greater Accra Region,private
+38,38,35,male,36.7,1,yes,Central Region,private
+39,39,60,male,39.9,0,yes,Greater Accra Region,private
+40,40,24,female,26.6,0,no,Central Region,public (Governemnt)
+41,41,31,female,36.6,2,no,Ashanti Region,public (Governemnt)
+42,42,41,trans,21.8,1,no,Ashanti Region,public (Governemnt)
+43,43,37,female,30.8,2,no,Ashanti Region,public (Governemnt)
+44,44,38,male,37.1,1,no,Central Region,private
+45,45,55,trans,37.3,0,no,Greater Accra Region,public (Governemnt)
+46,46,18,female,38.7,2,no,Central Region,public (Governemnt)
+47,47,28,female,34.8,0,no,Northern Region,public (Governemnt)
+48,48,60,female,24.5,0,no,Ashanti Region,public (Governemnt)
+49,49,36,trans,35.2,1,yes,Ashanti Region,public (Governemnt)
+50,50,18,female,35.6,0,no,Central Region,public (Governemnt)
+51,51,21,female,33.6,2,no,Northern Region,public (Governemnt)
+52,52,48,male,28.0,1,yes,Greater Accra Region,private
+53,53,36,male,34.4,0,yes,Ashanti Region,private
+54,54,40,female,28.7,3,no,Northern Region,public (Governemnt)
+55,55,58,trans,37.0,2,yes,Northern Region,public (Governemnt)
+56,56,58,female,31.8,2,no,Central Region,public (Governemnt)
+57,57,18,trans,31.7,2,yes,Ashanti Region,public (Governemnt)
+58,58,53,female,22.9,1,yes,Ashanti Region,public (Governemnt)
+59,59,34,female,37.3,2,no,Northern Region,public (Governemnt)
+60,60,43,trans,27.4,3,no,Central Region,public (Governemnt)
+61,61,25,male,33.7,4,no,Ashanti Region,private
+62,62,64,male,24.7,1,no,Northern Region,private
+63,63,28,female,25.9,1,no,Northern Region,public (Governemnt)
+64,64,20,female,22.4,0,yes,Northern Region,public (Governemnt)
+65,65,19,female,28.9,0,no,Greater Accra Region,public (Governemnt)
+66,66,61,female,39.1,2,no,Greater Accra Region,public (Governemnt)
+67,67,40,male,26.3,1,no,Northern Region,private
+68,68,40,female,36.2,0,no,Ashanti Region,public (Governemnt)
+69,69,28,male,24.0,3,yes,Ashanti Region,private
+70,70,27,female,24.8,0,yes,Ashanti Region,public (Governemnt)
+71,71,31,male,28.5,5,no,Central Region,private
+72,72,53,female,28.1,3,no,Greater Accra Region,public (Governemnt)
+73,73,58,male,32.0,1,no,Ashanti Region,private
+74,74,44,male,27.4,2,no,Greater Accra Region,private
+75,75,57,male,34.0,0,no,Northern Region,private
+76,76,29,female,29.6,1,no,Ashanti Region,public (Governemnt)
+77,77,21,male,35.5,0,no,Ashanti Region,private
+78,78,22,female,39.8,0,no,Central Region,public (Governemnt)
+79,79,41,female,33.0,0,no,Northern Region,public (Governemnt)
+80,80,31,male,26.9,1,no,Central Region,private
+81,81,45,female,38.3,0,no,Central Region,public (Governemnt)
+82,82,22,male,37.6,1,yes,Ashanti Region,private
+83,83,48,female,41.2,4,no,Northern Region,public (Governemnt)
+84,84,37,female,34.8,2,yes,Greater Accra Region,public (Governemnt)
+85,85,45,male,22.9,2,yes,Northern Region,private
+86,86,57,female,31.2,0,yes,Northern Region,public (Governemnt)
+87,87,56,female,27.2,0,no,Greater Accra Region,public (Governemnt)
+88,88,46,female,27.7,0,no,Northern Region,public (Governemnt)
+89,89,55,female,27.0,0,no,Northern Region,public (Governemnt)
+90,90,21,female,39.5,0,no,Ashanti Region,public (Governemnt)
+91,91,53,female,24.8,1,no,Northern Region,public (Governemnt)
+92,92,59,male,29.8,3,yes,Central Region,private
+93,93,35,male,34.8,2,no,Northern Region,private
+94,94,64,female,31.3,2,yes,Greater Accra Region,public (Governemnt)
+95,95,28,female,37.6,1,no,Ashanti Region,public (Governemnt)
+96,96,54,female,30.8,3,no,Greater Accra Region,public (Governemnt)
+97,97,55,male,38.3,0,no,Ashanti Region,private
+98,98,56,male,20.0,0,yes,Central Region,private
+99,99,38,male,19.3,0,yes,Greater Accra Region,private
+100,100,41,female,31.6,0,no,Greater Accra Region,public (Governemnt)
+101,101,30,male,25.5,0,no,Central Region,private
+102,102,18,female,30.1,0,no,Central Region,public (Governemnt)
+103,103,61,female,29.9,3,yes,Ashanti Region,public (Governemnt)
+104,104,34,female,27.5,1,no,Greater Accra Region,public (Governemnt)
+105,105,20,male,28.0,1,yes,Northern Region,private
+106,106,19,female,28.4,1,no,Greater Accra Region,public (Governemnt)
+107,107,26,male,30.9,2,no,Northern Region,private
+108,108,29,male,27.9,0,no,Ashanti Region,private
+109,109,63,male,35.1,0,yes,Ashanti Region,private
+110,110,54,male,33.6,1,no,Northern Region,private
+111,111,55,female,29.7,2,no,Greater Accra Region,public (Governemnt)
+112,112,37,male,30.8,0,no,Greater Accra Region,private
+113,113,21,female,35.7,0,no,Northern Region,public (Governemnt)
+114,114,52,male,32.2,3,no,Central Region,private
+115,115,60,male,28.6,0,no,Central Region,private
+116,116,58,male,49.1,0,no,Ashanti Region,private
+117,117,29,female,27.9,1,yes,Ashanti Region,public (Governemnt)
+118,118,49,female,27.2,0,no,Ashanti Region,public (Governemnt)
+119,119,37,female,23.4,2,no,Northern Region,public (Governemnt)
+120,120,44,male,37.1,2,no,Greater Accra Region,private
+121,121,18,male,23.8,0,no,Central Region,private
+122,122,20,female,29.0,0,no,Northern Region,public (Governemnt)
+123,123,44,male,31.4,1,yes,Central Region,private
+124,124,47,female,33.9,3,no,Northern Region,public (Governemnt)
+125,125,26,female,28.8,0,no,Central Region,public (Governemnt)
+126,126,19,female,28.3,0,yes,Greater Accra Region,public (Governemnt)
+127,127,52,female,37.4,0,no,Greater Accra Region,public (Governemnt)
+128,128,32,female,17.8,2,yes,Northern Region,public (Governemnt)
+129,129,38,male,34.7,2,no,Greater Accra Region,private
+130,130,59,female,26.5,0,no,Central Region,public (Governemnt)
+131,131,61,female,22.0,0,no,Central Region,public (Governemnt)
+132,132,53,female,35.9,2,no,Greater Accra Region,public (Governemnt)
+133,133,19,male,25.6,0,no,Northern Region,private
+134,134,20,female,28.8,0,no,Central Region,public (Governemnt)
+135,135,22,female,28.1,0,no,Ashanti Region,public (Governemnt)
+136,136,19,male,34.1,0,no,Greater Accra Region,private
+137,137,22,male,25.2,0,no,Northern Region,private
+138,138,54,female,31.9,3,no,Ashanti Region,public (Governemnt)
+139,139,22,female,36.0,0,no,Greater Accra Region,public (Governemnt)
+140,140,34,male,22.4,2,no,Central Region,private
+141,141,26,male,32.5,1,no,Central Region,private
+142,142,34,male,25.3,2,yes,Ashanti Region,private
+143,143,29,male,29.7,2,no,Northern Region,private
+144,144,30,male,28.7,3,yes,Northern Region,private
+145,145,29,female,38.8,3,no,Ashanti Region,public (Governemnt)
+146,146,46,male,30.5,3,yes,Northern Region,private
+147,147,51,female,37.7,1,no,Ashanti Region,public (Governemnt)
+148,148,53,female,37.4,1,no,Northern Region,public (Governemnt)
+149,149,19,male,28.4,1,no,Greater Accra Region,private
+150,150,35,male,24.1,1,no,Northern Region,private
+151,151,48,male,29.7,0,no,Ashanti Region,private
+152,152,32,female,37.1,3,no,Central Region,public (Governemnt)
+153,153,42,female,23.4,0,yes,Central Region,public (Governemnt)
+154,154,40,female,25.5,1,no,Central Region,public (Governemnt)
+155,155,44,male,39.5,0,no,Northern Region,private
+156,156,48,male,24.4,0,yes,Ashanti Region,private
+157,157,18,male,25.2,0,yes,Central Region,private
+158,158,30,male,35.5,0,yes,Ashanti Region,private
+159,159,50,female,27.8,3,no,Ashanti Region,public (Governemnt)
+160,160,42,female,26.6,0,yes,Northern Region,public (Governemnt)
+161,161,18,female,36.9,0,yes,Ashanti Region,public (Governemnt)
+162,162,54,male,39.6,1,no,Greater Accra Region,private
+163,163,32,female,29.8,2,no,Greater Accra Region,public (Governemnt)
+164,164,37,male,29.6,0,no,Northern Region,private
+165,165,47,male,28.2,4,no,Central Region,private
+166,166,20,female,37.0,5,no,Greater Accra Region,public (Governemnt)
+167,167,32,female,33.2,3,no,Northern Region,public (Governemnt)
+168,168,19,female,31.8,1,no,Northern Region,public (Governemnt)
+169,169,27,male,18.9,3,no,Central Region,private
+170,170,63,male,41.5,0,no,Ashanti Region,private
+171,171,49,male,30.3,0,no,Greater Accra Region,private
+172,172,18,male,16.0,0,no,Central Region,private
+173,173,35,female,34.8,1,no,Greater Accra Region,public (Governemnt)
+174,174,24,female,33.3,0,no,Northern Region,public (Governemnt)
+175,175,63,female,37.7,0,yes,Greater Accra Region,public (Governemnt)
+176,176,38,male,27.8,2,no,Northern Region,private
+177,177,54,male,29.2,1,no,Greater Accra Region,private
+178,178,46,female,28.9,2,no,Greater Accra Region,public (Governemnt)
+179,179,41,female,33.2,3,no,Central Region,public (Governemnt)
+180,180,58,male,28.6,0,no,Northern Region,private
+181,181,18,female,38.3,0,no,Ashanti Region,public (Governemnt)
+182,182,22,male,20.0,3,no,Central Region,private
+183,183,44,female,26.4,0,no,Northern Region,public (Governemnt)
+184,184,44,male,30.7,2,no,Ashanti Region,private
+185,185,36,male,41.9,3,yes,Central Region,private
+186,186,26,female,29.9,2,no,Ashanti Region,public (Governemnt)
+187,187,30,female,30.9,3,no,Greater Accra Region,public (Governemnt)
+188,188,41,female,32.2,1,no,Greater Accra Region,public (Governemnt)
+189,189,29,female,32.1,2,no,Northern Region,public (Governemnt)
+190,190,61,male,31.6,0,no,Ashanti Region,private
+191,191,36,female,26.2,0,no,Greater Accra Region,public (Governemnt)
+192,192,25,male,25.7,0,no,Ashanti Region,private
+193,193,56,female,26.6,1,no,Northern Region,public (Governemnt)
+194,194,18,male,34.4,0,no,Ashanti Region,private
+195,195,19,male,30.6,0,no,Northern Region,private
+196,196,39,female,32.8,0,no,Greater Accra Region,public (Governemnt)
+197,197,45,female,28.6,2,no,Ashanti Region,public (Governemnt)
+198,198,51,female,18.1,0,no,Northern Region,public (Governemnt)
+199,199,64,female,39.3,0,no,Central Region,public (Governemnt)
+200,200,19,female,32.1,0,no,Northern Region,public (Governemnt)
+201,201,48,female,32.2,1,no,Ashanti Region,public (Governemnt)
+202,202,60,female,24.0,0,no,Northern Region,public (Governemnt)
+203,203,27,female,36.1,0,yes,Ashanti Region,public (Governemnt)
+204,204,46,male,22.3,0,no,Greater Accra Region,private
+205,205,28,female,28.9,1,no,Central Region,public (Governemnt)
+206,206,59,male,26.4,0,no,Ashanti Region,private
+207,207,35,male,27.7,2,yes,Central Region,private
+208,208,63,female,31.8,0,no,Greater Accra Region,public (Governemnt)
+209,209,40,male,41.2,1,no,Central Region,private
+210,210,20,male,33.0,1,no,Greater Accra Region,private
+211,211,40,male,30.9,4,no,Northern Region,private
+212,212,24,male,28.5,2,no,Northern Region,private
+213,213,34,female,26.7,1,no,Ashanti Region,public (Governemnt)
+214,214,45,female,30.9,2,no,Greater Accra Region,public (Governemnt)
+215,215,41,female,37.1,2,no,Greater Accra Region,public (Governemnt)
+216,216,53,female,26.6,0,no,Northern Region,public (Governemnt)
+217,217,27,male,23.1,0,no,Ashanti Region,private
+218,218,26,female,29.9,1,no,Ashanti Region,public (Governemnt)
+219,219,24,female,23.2,0,no,Ashanti Region,public (Governemnt)
+220,220,34,female,33.7,1,no,Greater Accra Region,public (Governemnt)
+221,221,53,female,33.3,0,no,Central Region,public (Governemnt)
+222,222,32,male,30.8,3,no,Greater Accra Region,private
+223,223,19,male,34.8,0,yes,Greater Accra Region,private
+224,224,42,male,24.6,0,yes,Ashanti Region,private
+225,225,55,male,33.9,3,no,Ashanti Region,private
+226,226,28,male,38.1,0,no,Ashanti Region,private
+227,227,58,female,41.9,0,no,Ashanti Region,public (Governemnt)
+228,228,41,female,31.6,1,no,Central Region,public (Governemnt)
+229,229,47,male,25.5,2,no,Central Region,private
+230,230,42,female,36.2,1,no,Northern Region,public (Governemnt)
+231,231,59,female,27.8,3,no,Ashanti Region,public (Governemnt)
+232,232,19,female,17.8,0,no,Greater Accra Region,public (Governemnt)
+233,233,59,male,27.5,1,no,Greater Accra Region,private
+234,234,39,male,24.5,2,no,Northern Region,private
+235,235,40,female,22.2,2,yes,Ashanti Region,public (Governemnt)
+236,236,18,female,26.7,0,no,Ashanti Region,public (Governemnt)
+237,237,31,male,38.4,2,no,Ashanti Region,private
+238,238,19,male,29.1,0,yes,Northern Region,private
+239,239,44,male,38.1,1,no,Ashanti Region,private
+240,240,23,female,36.7,2,yes,Central Region,public (Governemnt)
+241,241,33,female,22.1,1,no,Central Region,public (Governemnt)
+242,242,55,female,26.8,1,no,Greater Accra Region,public (Governemnt)
+243,243,40,male,35.3,3,no,Greater Accra Region,private
+244,244,63,female,27.7,0,yes,Central Region,public (Governemnt)
+245,245,54,male,30.0,0,no,Northern Region,private
+246,246,60,female,38.1,0,no,Ashanti Region,public (Governemnt)
+247,247,24,male,35.9,0,no,Ashanti Region,private
+248,248,19,male,20.9,1,no,Greater Accra Region,private
+249,249,29,male,29.0,1,no,Central Region,private
+250,250,18,male,17.3,2,yes,Central Region,private
+251,251,63,female,32.2,2,yes,Greater Accra Region,public (Governemnt)
+252,252,54,male,34.2,2,yes,Ashanti Region,private
+253,253,27,male,30.3,3,no,Greater Accra Region,private
+254,254,50,male,31.8,0,yes,Central Region,private
+255,255,55,female,25.4,3,no,Central Region,public (Governemnt)
+256,256,56,male,33.6,0,yes,Northern Region,private
+257,257,38,female,40.2,0,no,Ashanti Region,public (Governemnt)
+258,258,51,male,24.4,4,no,Northern Region,private
+259,259,19,male,31.9,0,yes,Northern Region,private
+260,260,58,female,25.2,0,no,Greater Accra Region,public (Governemnt)
+261,261,20,female,26.8,1,yes,Ashanti Region,public (Governemnt)
+262,262,52,male,24.3,3,yes,Central Region,private
+263,263,19,male,37.0,0,yes,Northern Region,private
+264,264,53,female,38.1,3,no,Ashanti Region,public (Governemnt)
+265,265,46,male,42.4,3,yes,Ashanti Region,private
+266,266,40,male,19.8,1,yes,Ashanti Region,private
+267,267,59,female,32.4,3,no,Central Region,public (Governemnt)
+268,268,45,male,30.2,1,no,Greater Accra Region,private
+269,269,49,male,25.8,1,no,Central Region,private
+270,270,18,male,29.4,1,no,Ashanti Region,private
+271,271,50,male,34.2,2,yes,Greater Accra Region,private
+272,272,41,male,37.1,2,no,Northern Region,private
+273,273,50,male,27.5,1,no,Central Region,private
+274,274,25,male,27.6,0,no,Northern Region,private
+275,275,47,female,26.6,2,no,Central Region,public (Governemnt)
+276,276,19,male,20.6,2,no,Northern Region,private
+277,277,22,female,24.3,0,no,Greater Accra Region,public (Governemnt)
+278,278,59,male,31.8,2,no,Ashanti Region,private
+279,279,51,female,21.6,1,no,Ashanti Region,public (Governemnt)
+280,280,40,female,28.1,1,yes,Central Region,public (Governemnt)
+281,281,54,male,40.6,3,yes,Central Region,private
+282,282,30,male,27.6,1,no,Central Region,private
+283,283,55,female,32.4,1,no,Central Region,public (Governemnt)
+284,284,52,female,31.2,0,no,Greater Accra Region,public (Governemnt)
+285,285,46,male,26.6,1,no,Ashanti Region,private
+286,286,46,female,48.1,2,no,Central Region,public (Governemnt)
+287,287,63,female,26.2,0,no,Northern Region,public (Governemnt)
+288,288,59,female,36.8,1,yes,Central Region,public (Governemnt)
+289,289,52,male,26.4,3,no,Ashanti Region,private
+290,290,28,female,33.4,0,no,Greater Accra Region,public (Governemnt)
+291,291,29,male,29.6,1,no,Central Region,private
+292,292,25,male,45.5,2,yes,Ashanti Region,private
+293,293,22,female,28.8,0,no,Ashanti Region,public (Governemnt)
+294,294,25,male,26.8,3,no,Greater Accra Region,private
+295,295,18,male,23.0,0,no,Central Region,private
+296,296,19,male,27.7,0,yes,Greater Accra Region,private
+297,297,47,male,25.4,1,yes,Ashanti Region,private
+298,298,31,male,34.4,3,yes,Northern Region,private
+299,299,48,female,28.9,1,no,Northern Region,public (Governemnt)
+300,300,36,male,27.6,3,no,Central Region,private
+301,301,53,female,22.6,3,yes,Central Region,public (Governemnt)
+302,302,56,female,37.5,2,no,Ashanti Region,public (Governemnt)
+303,303,28,female,33.0,2,no,Ashanti Region,public (Governemnt)
+304,304,57,female,38.0,2,no,Greater Accra Region,public (Governemnt)
+305,305,29,male,33.3,2,no,Northern Region,private
+306,306,28,female,27.5,2,no,Greater Accra Region,public (Governemnt)
+307,307,30,female,33.3,1,no,Ashanti Region,public (Governemnt)
+308,308,58,male,34.9,0,no,Central Region,private
+309,309,41,female,33.1,2,no,Northern Region,public (Governemnt)
+310,310,50,male,26.6,0,no,Greater Accra Region,private
+311,311,19,female,24.7,0,no,Greater Accra Region,public (Governemnt)
+312,312,43,male,36.0,3,yes,Ashanti Region,private
+313,313,49,male,35.9,0,no,Ashanti Region,private
+314,314,27,female,31.4,0,yes,Greater Accra Region,public (Governemnt)
+315,315,52,male,33.3,0,no,Central Region,private
+316,316,50,male,32.2,0,no,Northern Region,private
+317,317,54,male,32.8,0,no,Central Region,private
+318,318,44,female,27.6,0,no,Northern Region,public (Governemnt)
+319,319,32,male,37.3,1,no,Central Region,private
+320,320,34,male,25.3,1,no,Northern Region,private
+321,321,26,female,29.6,4,no,Central Region,public (Governemnt)
+322,322,34,male,30.8,0,yes,Greater Accra Region,private
+323,323,57,male,40.9,0,no,Central Region,private
+324,324,29,male,27.2,0,no,Greater Accra Region,private
+325,325,40,male,34.1,1,no,Central Region,private
+326,326,27,female,23.2,1,no,Ashanti Region,public (Governemnt)
+327,327,45,male,36.5,2,yes,Northern Region,private
+328,328,64,female,33.8,1,yes,Greater Accra Region,public (Governemnt)
+329,329,52,male,36.7,0,no,Greater Accra Region,private
+330,330,61,female,36.4,1,yes,Central Region,public (Governemnt)
+331,331,52,male,27.4,0,yes,Northern Region,private
+332,332,61,female,31.2,0,no,Northern Region,public (Governemnt)
+333,333,56,female,28.8,0,no,Central Region,public (Governemnt)
+334,334,43,female,35.7,2,no,Central Region,public (Governemnt)
+335,335,64,male,34.5,0,no,Greater Accra Region,private
+336,336,60,male,25.7,0,no,Ashanti Region,private
+337,337,62,male,27.6,1,no,Northern Region,private
+338,338,50,male,32.3,1,yes,Central Region,private
+339,339,46,female,27.7,1,no,Ashanti Region,public (Governemnt)
+340,340,24,female,27.6,0,no,Greater Accra Region,public (Governemnt)
+341,341,62,male,30.0,0,no,Northern Region,private
+342,342,60,female,27.6,0,no,Central Region,public (Governemnt)
+343,343,63,male,36.8,0,no,Central Region,private
+344,344,49,female,41.5,4,no,Ashanti Region,public (Governemnt)
+345,345,34,female,29.3,3,no,Ashanti Region,public (Governemnt)
+346,346,33,male,35.8,2,no,Ashanti Region,private
+347,347,46,male,33.3,1,no,Central Region,private
+348,348,36,female,29.9,1,no,Ashanti Region,public (Governemnt)
+349,349,19,male,27.8,0,no,Northern Region,private
+350,350,57,female,23.2,0,no,Northern Region,public (Governemnt)
+351,351,50,female,25.6,0,no,Greater Accra Region,public (Governemnt)
+352,352,30,female,27.7,0,no,Greater Accra Region,public (Governemnt)
+353,353,33,male,35.2,0,no,Central Region,private
+354,354,18,female,38.3,0,no,Ashanti Region,public (Governemnt)
+355,355,46,male,27.6,0,no,Greater Accra Region,private
+356,356,46,male,43.9,3,no,Ashanti Region,private
+357,357,47,male,29.8,3,no,Northern Region,private
+358,358,23,male,41.9,0,no,Ashanti Region,private
+359,359,18,female,20.8,0,no,Ashanti Region,public (Governemnt)
+360,360,48,female,32.3,2,no,Central Region,public (Governemnt)
+361,361,35,male,30.5,1,no,Greater Accra Region,private
+362,362,19,female,21.7,0,yes,Greater Accra Region,public (Governemnt)
+363,363,21,female,26.4,1,no,Greater Accra Region,public (Governemnt)
+364,364,21,female,21.9,2,no,Ashanti Region,public (Governemnt)
+365,365,49,female,30.8,1,no,Central Region,public (Governemnt)
+366,366,56,female,32.3,3,no,Central Region,public (Governemnt)
+367,367,42,female,25.0,2,no,Northern Region,public (Governemnt)
+368,368,44,male,32.0,2,no,Northern Region,private
+369,369,18,male,30.4,3,no,Central Region,private
+370,370,61,female,21.1,0,no,Northern Region,public (Governemnt)
+371,371,57,female,22.2,0,no,Central Region,public (Governemnt)
+372,372,42,female,33.2,1,no,Central Region,public (Governemnt)
+373,373,26,male,32.9,2,yes,Greater Accra Region,private
+374,374,20,male,33.3,0,no,Ashanti Region,private
+375,375,23,female,28.3,0,yes,Northern Region,public (Governemnt)
+376,376,39,female,24.9,3,yes,Central Region,public (Governemnt)
+377,377,24,male,40.2,0,yes,Ashanti Region,private
+378,378,64,female,30.1,3,no,Northern Region,public (Governemnt)
+379,379,62,male,31.5,1,no,Ashanti Region,private
+380,380,27,female,18.0,2,yes,Central Region,public (Governemnt)
+381,381,55,male,30.7,0,yes,Central Region,private
+382,382,55,male,33.0,0,no,Ashanti Region,private
+383,383,35,female,43.3,2,no,Ashanti Region,public (Governemnt)
+384,384,44,male,22.1,2,no,Central Region,private
+385,385,19,male,34.4,0,no,Greater Accra Region,private
+386,386,58,female,39.1,0,no,Ashanti Region,public (Governemnt)
+387,387,50,male,25.4,2,no,Northern Region,private
+388,388,26,female,22.6,0,no,Northern Region,public (Governemnt)
+389,389,24,female,30.2,3,no,Northern Region,public (Governemnt)
+390,390,48,male,35.6,4,no,Central Region,private
+391,391,19,female,37.4,0,no,Northern Region,public (Governemnt)
+392,392,48,male,31.4,1,no,Central Region,private
+393,393,49,male,31.4,1,no,Central Region,private
+394,394,46,female,32.3,2,no,Central Region,public (Governemnt)
+395,395,46,male,19.9,0,no,Northern Region,private
+396,396,43,female,34.4,3,no,Greater Accra Region,public (Governemnt)
+397,397,21,male,31.0,0,no,Ashanti Region,private
+398,398,64,male,25.6,2,no,Greater Accra Region,private
+399,399,18,female,38.2,0,no,Ashanti Region,public (Governemnt)
+400,400,51,female,20.6,0,no,Greater Accra Region,public (Governemnt)
+401,401,47,male,47.5,1,no,Ashanti Region,private
+402,402,64,female,33.0,0,no,Northern Region,public (Governemnt)
+403,403,49,male,32.3,3,no,Northern Region,private
+404,404,31,male,20.4,0,no,Greater Accra Region,private
+405,405,52,female,38.4,2,no,Central Region,public (Governemnt)
+406,406,33,female,24.3,0,no,Ashanti Region,public (Governemnt)
+407,407,47,female,23.6,1,no,Greater Accra Region,public (Governemnt)
+408,408,38,male,21.1,3,no,Ashanti Region,private
+409,409,32,male,30.0,1,no,Ashanti Region,private
+410,410,19,male,17.5,0,no,Northern Region,private
+411,411,44,female,20.2,1,yes,Central Region,public (Governemnt)
+412,412,26,female,17.2,2,yes,Central Region,public (Governemnt)
+413,413,25,male,23.9,5,no,Greater Accra Region,private
+414,414,19,female,35.2,0,no,Northern Region,public (Governemnt)
+415,415,43,female,35.6,1,no,Ashanti Region,public (Governemnt)
+416,416,52,male,34.1,0,no,Ashanti Region,private
+417,417,36,female,22.6,2,yes,Greater Accra Region,public (Governemnt)
+418,418,64,male,39.2,1,no,Ashanti Region,private
+419,419,63,female,27.0,0,yes,Northern Region,public (Governemnt)
+420,420,64,male,33.9,0,yes,Ashanti Region,private
+421,421,61,male,35.9,0,yes,Ashanti Region,private
+422,422,40,male,32.8,1,yes,Central Region,private
+423,423,25,male,30.6,0,no,Central Region,private
+424,424,48,male,30.2,2,no,Greater Accra Region,private
+425,425,45,male,24.3,5,no,Ashanti Region,private
+426,426,38,female,27.3,1,no,Central Region,public (Governemnt)
+427,427,18,female,29.2,0,no,Central Region,public (Governemnt)
+428,428,21,female,16.8,1,no,Central Region,public (Governemnt)
+429,429,27,female,30.4,3,no,Northern Region,public (Governemnt)
+430,430,19,male,33.1,0,no,Greater Accra Region,private
+431,431,29,female,20.2,2,no,Northern Region,public (Governemnt)
+432,432,42,male,26.9,0,no,Greater Accra Region,private
+433,433,60,female,30.5,0,no,Greater Accra Region,public (Governemnt)
+434,434,31,male,28.6,1,no,Northern Region,private
+435,435,60,male,33.1,3,no,Ashanti Region,private
+436,436,22,male,31.7,0,no,Central Region,private
+437,437,35,male,28.9,3,no,Greater Accra Region,private
+438,438,52,female,46.8,5,no,Ashanti Region,public (Governemnt)
+439,439,26,male,29.5,0,no,Central Region,private
+440,440,31,female,32.7,1,no,Northern Region,public (Governemnt)
+441,441,33,female,33.5,0,yes,Greater Accra Region,public (Governemnt)
+442,442,18,male,43.0,0,no,Ashanti Region,private
+443,443,59,female,36.5,1,no,Ashanti Region,public (Governemnt)
+444,444,56,male,26.7,1,yes,Northern Region,private
+445,445,45,female,33.1,0,no,Greater Accra Region,public (Governemnt)
+446,446,60,male,29.6,0,no,Central Region,private
+447,447,56,female,25.7,0,no,Northern Region,public (Governemnt)
+448,448,40,female,29.6,0,no,Greater Accra Region,public (Governemnt)
+449,449,35,male,38.6,1,no,Greater Accra Region,private
+450,450,39,male,29.6,4,no,Greater Accra Region,private
+451,451,30,male,24.1,1,no,Northern Region,private
+452,452,24,male,23.4,0,no,Greater Accra Region,private
+453,453,20,male,29.7,0,no,Northern Region,private
+454,454,32,male,46.5,2,no,Ashanti Region,private
+455,455,59,male,37.4,0,no,Greater Accra Region,private
+456,456,55,female,30.1,2,no,Ashanti Region,public (Governemnt)
+457,457,57,female,30.5,0,no,Northern Region,public (Governemnt)
+458,458,56,male,39.6,0,no,Greater Accra Region,private
+459,459,40,female,33.0,3,no,Ashanti Region,public (Governemnt)
+460,460,49,female,36.6,3,no,Ashanti Region,public (Governemnt)
+461,461,42,male,30.0,0,yes,Greater Accra Region,private
+462,462,62,female,38.1,2,no,Central Region,public (Governemnt)
+463,463,56,male,25.9,0,no,Central Region,private
+464,464,19,male,25.2,0,no,Northern Region,private
+465,465,30,female,28.4,1,yes,Ashanti Region,public (Governemnt)
+466,466,60,female,28.7,1,no,Greater Accra Region,public (Governemnt)
+467,467,56,female,33.8,2,no,Northern Region,public (Governemnt)
+468,468,28,female,24.3,1,no,Central Region,public (Governemnt)
+469,469,18,female,24.1,1,no,Ashanti Region,public (Governemnt)
+470,470,27,male,32.7,0,no,Ashanti Region,private
+471,471,18,female,30.1,0,no,Central Region,public (Governemnt)
+472,472,19,female,29.8,0,no,Greater Accra Region,public (Governemnt)
+473,473,47,female,33.3,0,no,Central Region,public (Governemnt)
+474,474,54,male,25.1,3,yes,Greater Accra Region,private
+475,475,61,male,28.3,1,yes,Northern Region,private
+476,476,24,male,28.5,0,yes,Central Region,private
+477,477,25,male,35.6,0,no,Northern Region,private
+478,478,21,male,36.9,0,no,Ashanti Region,private
+479,479,23,male,32.6,0,no,Ashanti Region,private
+480,480,63,male,41.3,3,no,Northern Region,private
+481,481,49,male,37.5,2,no,Ashanti Region,private
+482,482,18,female,31.4,0,no,Ashanti Region,public (Governemnt)
+483,483,51,female,39.5,1,no,Greater Accra Region,public (Governemnt)
+484,484,48,male,34.3,3,no,Greater Accra Region,private
+485,485,31,female,31.1,0,no,Central Region,public (Governemnt)
+486,486,54,female,21.5,3,no,Northern Region,public (Governemnt)
+487,487,19,male,28.7,0,no,Greater Accra Region,private
+488,488,44,female,38.1,0,yes,Ashanti Region,public (Governemnt)
+489,489,53,male,31.2,1,no,Northern Region,private
+490,490,19,female,32.9,0,no,Greater Accra Region,public (Governemnt)
+491,491,61,female,25.1,0,no,Ashanti Region,public (Governemnt)
+492,492,18,female,25.1,0,no,Central Region,public (Governemnt)
+493,493,61,male,43.4,0,no,Greater Accra Region,private
+494,494,21,male,25.7,4,yes,Greater Accra Region,private
+495,495,20,male,27.9,0,no,Central Region,private
+496,496,31,female,23.6,2,no,Greater Accra Region,public (Governemnt)
+497,497,45,male,28.7,2,no,Greater Accra Region,private
+498,498,44,female,24.0,2,no,Ashanti Region,public (Governemnt)
+499,499,62,female,39.2,0,no,Greater Accra Region,public (Governemnt)
+500,500,29,male,34.4,0,yes,Greater Accra Region,private
+501,501,43,male,26.0,0,no,Central Region,private
+502,502,51,male,23.2,1,yes,Ashanti Region,private
+503,503,19,male,30.3,0,yes,Ashanti Region,private
+504,504,38,female,28.9,1,no,Ashanti Region,public (Governemnt)
+505,505,37,male,30.9,3,no,Northern Region,private
+506,506,22,male,31.4,1,no,Northern Region,private
+507,507,21,male,23.8,2,no,Northern Region,private
+508,508,24,female,25.3,0,no,Central Region,public (Governemnt)
+509,509,57,female,28.7,0,no,Greater Accra Region,public (Governemnt)
+510,510,56,male,32.1,1,no,Central Region,private
+511,511,27,male,33.7,0,no,Ashanti Region,private
+512,512,51,male,22.4,0,no,Central Region,private
+513,513,19,male,30.4,0,no,Greater Accra Region,private
+514,514,39,male,28.3,1,yes,Greater Accra Region,private
+515,515,58,male,35.7,0,no,Greater Accra Region,private
+516,516,20,male,35.3,1,no,Ashanti Region,private
+517,517,45,male,30.5,2,no,Northern Region,private
+518,518,35,female,31.0,1,no,Greater Accra Region,public (Governemnt)
+519,519,31,male,30.9,0,no,Central Region,private
+520,520,50,female,27.4,0,no,Central Region,public (Governemnt)
+521,521,32,female,44.2,0,no,Ashanti Region,public (Governemnt)
+522,522,51,female,33.9,0,no,Central Region,public (Governemnt)
+523,523,38,female,37.7,0,no,Ashanti Region,public (Governemnt)
+524,524,42,male,26.1,1,yes,Ashanti Region,private
+525,525,18,female,33.9,0,no,Ashanti Region,public (Governemnt)
+526,526,19,female,30.6,2,no,Northern Region,public (Governemnt)
+527,527,51,female,25.8,1,no,Greater Accra Region,public (Governemnt)
+528,528,46,male,39.4,1,no,Central Region,private
+529,529,18,male,25.5,0,no,Central Region,private
+530,530,57,male,42.1,1,yes,Ashanti Region,private
+531,531,62,female,31.7,0,no,Central Region,public (Governemnt)
+532,532,59,male,29.7,2,no,Ashanti Region,private
+533,533,37,male,36.2,0,no,Ashanti Region,private
+534,534,64,male,40.5,0,no,Ashanti Region,private
+535,535,38,male,28.0,1,no,Central Region,private
+536,536,33,female,38.9,3,no,Greater Accra Region,public (Governemnt)
+537,537,46,female,30.2,2,no,Greater Accra Region,public (Governemnt)
+538,538,46,female,28.1,1,no,Ashanti Region,public (Governemnt)
+539,539,53,male,31.4,0,no,Ashanti Region,private
+540,540,34,female,38.0,3,no,Greater Accra Region,public (Governemnt)
+541,541,20,female,31.8,2,no,Ashanti Region,public (Governemnt)
+542,542,63,female,36.3,0,no,Ashanti Region,public (Governemnt)
+543,543,54,female,47.4,0,yes,Ashanti Region,public (Governemnt)
+544,544,54,male,30.2,0,no,Northern Region,private
+545,545,49,male,25.8,2,yes,Northern Region,private
+546,546,28,male,35.4,0,no,Central Region,private
+547,547,54,female,46.7,2,no,Greater Accra Region,public (Governemnt)
+548,548,25,female,28.6,0,no,Central Region,public (Governemnt)
+549,549,43,female,46.2,0,yes,Ashanti Region,public (Governemnt)
+550,550,63,male,30.8,0,no,Greater Accra Region,private
+551,551,32,female,28.9,0,no,Ashanti Region,public (Governemnt)
+552,552,62,male,21.4,0,no,Greater Accra Region,private
+553,553,52,female,31.7,2,no,Northern Region,public (Governemnt)
+554,554,25,female,41.3,0,no,Central Region,public (Governemnt)
+555,555,28,male,23.8,2,no,Greater Accra Region,private
+556,556,46,male,33.4,1,no,Central Region,private
+557,557,34,male,34.2,0,no,Ashanti Region,private
+558,558,35,female,34.1,3,yes,Northern Region,public (Governemnt)
+559,559,19,male,35.5,0,no,Northern Region,private
+560,560,46,female,20.0,2,no,Northern Region,public (Governemnt)
+561,561,54,female,32.7,0,no,Central Region,public (Governemnt)
+562,562,27,male,30.5,0,no,Greater Accra Region,private
+563,563,50,male,44.8,1,no,Ashanti Region,private
+564,564,18,female,32.1,2,no,Ashanti Region,public (Governemnt)
+565,565,19,female,30.5,0,no,Northern Region,public (Governemnt)
+566,566,38,female,40.6,1,no,Northern Region,public (Governemnt)
+567,567,41,male,30.6,2,no,Northern Region,private
+568,568,49,female,31.9,5,no,Greater Accra Region,public (Governemnt)
+569,569,48,male,40.6,2,yes,Northern Region,private
+570,570,31,female,29.1,0,no,Greater Accra Region,public (Governemnt)
+571,571,18,female,37.3,1,no,Ashanti Region,public (Governemnt)
+572,572,30,female,43.1,2,no,Ashanti Region,public (Governemnt)
+573,573,62,female,36.9,1,no,Central Region,public (Governemnt)
+574,574,57,female,34.3,2,no,Central Region,public (Governemnt)
+575,575,58,female,27.2,0,no,Northern Region,public (Governemnt)
+576,576,22,male,26.8,0,no,Ashanti Region,private
+577,577,31,female,38.1,1,yes,Central Region,public (Governemnt)
+578,578,52,male,30.2,1,no,Greater Accra Region,private
+579,579,25,female,23.5,0,no,Central Region,public (Governemnt)
+580,580,59,male,25.5,1,no,Central Region,private
+581,581,19,male,30.6,0,no,Northern Region,private
+582,582,39,male,45.4,2,no,Ashanti Region,private
+583,583,32,female,23.7,1,no,Ashanti Region,public (Governemnt)
+584,584,19,male,20.7,0,no,Greater Accra Region,private
+585,585,33,female,28.3,1,no,Ashanti Region,public (Governemnt)
+586,586,21,male,20.2,3,no,Central Region,private
+587,587,34,female,30.2,1,yes,Northern Region,public (Governemnt)
+588,588,61,female,35.9,0,no,Central Region,public (Governemnt)
+589,589,38,female,30.7,1,no,Ashanti Region,public (Governemnt)
+590,590,58,female,29.0,0,no,Greater Accra Region,public (Governemnt)
+591,591,47,male,19.6,1,no,Northern Region,private
+592,592,20,male,31.1,2,no,Ashanti Region,private
+593,593,21,female,21.9,1,yes,Central Region,public (Governemnt)
+594,594,41,male,40.3,0,no,Ashanti Region,private
+595,595,46,female,33.7,1,no,Central Region,public (Governemnt)
+596,596,42,female,29.5,2,no,Ashanti Region,public (Governemnt)
+597,597,34,female,33.3,1,no,Central Region,public (Governemnt)
+598,598,43,male,32.6,2,no,Greater Accra Region,private
+599,599,52,female,37.5,2,no,Northern Region,public (Governemnt)
+600,600,18,female,39.2,0,no,Ashanti Region,public (Governemnt)
+601,601,51,male,31.6,0,no,Northern Region,private
+602,602,56,female,25.3,0,no,Greater Accra Region,public (Governemnt)
+603,603,64,female,39.1,3,no,Ashanti Region,public (Governemnt)
+604,604,19,female,28.3,0,yes,Northern Region,public (Governemnt)
+605,605,51,female,34.1,0,no,Ashanti Region,public (Governemnt)
+606,606,27,female,25.2,0,no,Central Region,public (Governemnt)
+607,607,59,female,23.7,0,yes,Northern Region,public (Governemnt)
+608,608,28,male,27.0,2,no,Central Region,private
+609,609,30,male,37.8,2,yes,Greater Accra Region,private
+610,610,47,female,29.4,1,no,Ashanti Region,public (Governemnt)
+611,611,38,female,34.8,2,no,Greater Accra Region,public (Governemnt)
+612,612,18,female,33.2,0,no,Central Region,public (Governemnt)
+613,613,34,female,19.0,3,no,Central Region,public (Governemnt)
+614,614,20,female,33.0,0,no,Ashanti Region,public (Governemnt)
+615,615,47,female,36.6,1,yes,Ashanti Region,public (Governemnt)
+616,616,56,female,28.6,0,no,Central Region,public (Governemnt)
+617,617,49,male,25.6,2,yes,Greater Accra Region,private
+618,618,19,female,33.1,0,yes,Ashanti Region,public (Governemnt)
+619,619,55,female,37.1,0,no,Greater Accra Region,public (Governemnt)
+620,620,30,male,31.4,1,no,Greater Accra Region,private
+621,621,37,male,34.1,4,yes,Greater Accra Region,private
+622,622,49,female,21.3,1,no,Greater Accra Region,public (Governemnt)
+623,623,18,male,33.5,0,yes,Central Region,private
+624,624,59,male,28.8,0,no,Northern Region,private
+625,625,29,female,26.0,0,no,Northern Region,public (Governemnt)
+626,626,36,male,28.9,3,no,Central Region,private
+627,627,33,male,42.5,1,no,Ashanti Region,private
+628,628,58,male,38.0,0,no,Greater Accra Region,private
+629,629,44,female,39.0,0,yes,Northern Region,public (Governemnt)
+630,630,53,male,36.1,1,no,Greater Accra Region,private
+631,631,24,male,29.3,0,no,Greater Accra Region,private
+632,632,29,female,35.5,0,no,Ashanti Region,public (Governemnt)
+633,633,40,male,22.7,2,no,Central Region,private
+634,634,51,male,39.7,1,no,Greater Accra Region,private
+635,635,64,male,38.2,0,no,Central Region,private
+636,636,19,female,24.5,1,no,Northern Region,public (Governemnt)
+637,637,35,female,38.1,2,no,Central Region,public (Governemnt)
+638,638,39,male,26.4,0,yes,Central Region,private
+639,639,56,male,33.7,4,no,Ashanti Region,private
+640,640,33,male,42.4,5,no,Greater Accra Region,private
+641,641,42,male,28.3,3,yes,Northern Region,private
+642,642,61,male,33.9,0,no,Central Region,private
+643,643,23,female,35.0,3,no,Northern Region,public (Governemnt)
+644,644,43,male,35.3,2,no,Ashanti Region,private
+645,645,48,male,30.8,3,no,Central Region,private
+646,646,39,male,26.2,1,no,Northern Region,private
+647,647,40,female,23.4,3,no,Central Region,public (Governemnt)
+648,648,18,male,28.5,0,no,Central Region,private
+649,649,58,female,33.0,0,no,Central Region,public (Governemnt)
+650,650,49,female,42.7,2,no,Ashanti Region,public (Governemnt)
+651,651,53,female,39.6,1,no,Ashanti Region,public (Governemnt)
+652,652,48,female,31.1,0,no,Ashanti Region,public (Governemnt)
+653,653,45,female,36.3,2,no,Ashanti Region,public (Governemnt)
+654,654,59,female,35.2,0,no,Ashanti Region,public (Governemnt)
+655,655,52,female,25.3,2,yes,Ashanti Region,public (Governemnt)
+656,656,26,female,42.4,1,no,Greater Accra Region,public (Governemnt)
+657,657,27,male,33.2,2,no,Northern Region,private
+658,658,48,female,35.9,1,no,Central Region,public (Governemnt)
+659,659,57,female,28.8,4,no,Central Region,public (Governemnt)
+660,660,37,male,46.5,3,no,Ashanti Region,private
+661,661,57,female,24.0,1,no,Ashanti Region,public (Governemnt)
+662,662,32,female,31.5,1,no,Central Region,public (Governemnt)
+663,663,18,male,33.7,0,no,Ashanti Region,private
+664,664,64,female,23.0,0,yes,Ashanti Region,public (Governemnt)
+665,665,43,male,38.1,2,yes,Ashanti Region,private
+666,666,49,male,28.7,1,no,Greater Accra Region,private
+667,667,40,female,32.8,2,yes,Northern Region,public (Governemnt)
+668,668,62,male,32.0,0,yes,Central Region,private
+669,669,40,female,29.8,1,no,Ashanti Region,public (Governemnt)
+670,670,30,male,31.6,3,no,Ashanti Region,private
+671,671,29,female,31.2,0,no,Central Region,public (Governemnt)
+672,672,36,male,29.7,0,no,Ashanti Region,private
+673,673,41,female,31.0,0,no,Ashanti Region,public (Governemnt)
+674,674,44,female,43.9,2,yes,Ashanti Region,public (Governemnt)
+675,675,45,male,21.4,0,no,Northern Region,private
+676,676,55,female,40.8,3,no,Ashanti Region,public (Governemnt)
+677,677,60,male,31.4,3,yes,Northern Region,private
+678,678,56,male,36.1,3,no,Greater Accra Region,private
+679,679,49,female,23.2,2,no,Northern Region,public (Governemnt)
+680,680,21,female,17.4,1,no,Greater Accra Region,public (Governemnt)
+681,681,19,male,20.3,0,no,Greater Accra Region,private
+682,682,39,male,35.3,2,yes,Greater Accra Region,private
+683,683,53,male,24.3,0,no,Northern Region,private
+684,684,33,female,18.5,1,no,Greater Accra Region,public (Governemnt)
+685,685,53,male,26.4,2,no,Central Region,private
+686,686,42,male,26.1,2,no,Central Region,private
+687,687,40,male,41.7,0,no,Ashanti Region,private
+688,688,47,female,24.1,1,no,Greater Accra Region,public (Governemnt)
+689,689,27,male,31.1,1,yes,Ashanti Region,private
+690,690,21,male,27.4,0,no,Central Region,private
+691,691,47,male,36.2,1,no,Greater Accra Region,private
+692,692,20,male,32.4,1,no,Northern Region,private
+693,693,24,male,23.7,0,no,Northern Region,private
+694,694,27,female,34.8,1,no,Greater Accra Region,public (Governemnt)
+695,695,26,female,40.2,0,no,Northern Region,public (Governemnt)
+696,696,53,female,32.3,2,no,Central Region,public (Governemnt)
+697,697,41,male,35.8,1,yes,Ashanti Region,private
+698,698,56,male,33.7,0,no,Northern Region,private
+699,699,23,female,39.3,2,no,Ashanti Region,public (Governemnt)
+700,700,21,female,34.9,0,no,Ashanti Region,public (Governemnt)
+701,701,50,female,44.7,0,no,Central Region,public (Governemnt)
+702,702,53,male,41.5,0,no,Ashanti Region,private
+703,703,34,female,26.4,1,no,Northern Region,public (Governemnt)
+704,704,47,female,29.5,1,no,Northern Region,public (Governemnt)
+705,705,33,female,32.9,2,no,Greater Accra Region,public (Governemnt)
+706,706,51,female,38.1,0,yes,Ashanti Region,public (Governemnt)
+707,707,49,male,28.7,3,no,Northern Region,private
+708,708,31,female,30.5,3,no,Central Region,public (Governemnt)
+709,709,36,female,27.7,0,no,Central Region,public (Governemnt)
+710,710,18,male,35.2,1,no,Ashanti Region,private
+711,711,50,female,23.5,2,no,Ashanti Region,public (Governemnt)
+712,712,43,female,30.7,2,no,Northern Region,public (Governemnt)
+713,713,20,male,40.5,0,no,Central Region,private
+714,714,24,female,22.6,0,no,Greater Accra Region,public (Governemnt)
+715,715,60,male,28.9,0,no,Greater Accra Region,private
+716,716,49,female,22.6,1,no,Northern Region,public (Governemnt)
+717,717,60,male,24.3,1,no,Northern Region,private
+718,718,51,female,36.7,2,no,Northern Region,public (Governemnt)
+719,719,58,female,33.4,0,no,Northern Region,public (Governemnt)
+720,720,51,female,40.7,0,no,Central Region,public (Governemnt)
+721,721,53,male,36.6,3,no,Greater Accra Region,private
+722,722,62,male,37.4,0,no,Greater Accra Region,private
+723,723,19,male,35.4,0,no,Greater Accra Region,private
+724,724,50,female,27.1,1,no,Central Region,public (Governemnt)
+725,725,30,female,39.1,3,yes,Ashanti Region,public (Governemnt)
+726,726,41,male,28.4,1,no,Northern Region,private
+727,727,29,female,21.8,1,yes,Central Region,public (Governemnt)
+728,728,18,female,40.3,0,no,Central Region,public (Governemnt)
+729,729,41,female,36.1,1,no,Ashanti Region,public (Governemnt)
+730,730,35,male,24.4,3,yes,Ashanti Region,private
+731,731,53,male,21.4,1,no,Greater Accra Region,private
+732,732,24,female,30.1,3,no,Greater Accra Region,public (Governemnt)
+733,733,48,female,27.3,1,no,Central Region,public (Governemnt)
+734,734,59,female,32.1,3,no,Greater Accra Region,public (Governemnt)
+735,735,49,female,34.8,1,no,Northern Region,public (Governemnt)
+736,736,37,female,38.4,0,yes,Ashanti Region,public (Governemnt)
+737,737,26,male,23.7,2,no,Greater Accra Region,private
+738,738,23,male,31.7,3,yes,Central Region,private
+739,739,29,male,35.5,2,yes,Greater Accra Region,private
+740,740,45,male,24.0,2,no,Central Region,private
+741,741,27,male,29.2,0,yes,Ashanti Region,private
+742,742,53,male,34.1,0,yes,Central Region,private
+743,743,31,female,26.6,0,no,Ashanti Region,public (Governemnt)
+744,744,50,male,26.4,0,no,Northern Region,private
+745,745,50,female,30.1,1,no,Northern Region,public (Governemnt)
+746,746,34,male,27.0,2,no,Greater Accra Region,private
+747,747,19,male,21.8,0,no,Northern Region,private
+748,748,47,female,36.0,1,no,Greater Accra Region,public (Governemnt)
+749,749,28,male,30.9,0,no,Northern Region,private
+750,750,37,female,26.4,0,yes,Ashanti Region,public (Governemnt)
+751,751,21,male,29.0,0,no,Northern Region,private
+752,752,64,male,37.9,0,no,Northern Region,private
+753,753,58,female,22.8,0,no,Ashanti Region,public (Governemnt)
+754,754,24,male,33.6,4,no,Central Region,private
+755,755,31,male,27.6,2,no,Central Region,private
+756,756,39,female,22.8,3,no,Central Region,public (Governemnt)
+757,757,47,female,27.8,0,yes,Ashanti Region,public (Governemnt)
+758,758,30,male,37.4,3,no,Central Region,private
+759,759,18,male,38.2,0,yes,Ashanti Region,private
+760,760,22,female,34.6,2,no,Central Region,public (Governemnt)
+761,761,23,male,35.2,1,no,Greater Accra Region,private
+762,762,33,male,27.1,1,yes,Greater Accra Region,private
+763,763,27,male,26.0,0,no,Central Region,private
+764,764,45,female,25.2,2,no,Central Region,public (Governemnt)
+765,765,57,female,31.8,0,no,Northern Region,public (Governemnt)
+766,766,47,male,32.3,1,no,Greater Accra Region,private
+767,767,42,female,29.0,1,no,Greater Accra Region,public (Governemnt)
+768,768,64,female,39.7,0,no,Greater Accra Region,public (Governemnt)
+769,769,38,female,19.5,2,no,Northern Region,public (Governemnt)
+770,770,61,male,36.1,3,no,Greater Accra Region,private
+771,771,53,female,26.7,2,no,Greater Accra Region,public (Governemnt)
+772,772,44,female,36.5,0,no,Central Region,public (Governemnt)
+773,773,19,female,28.9,0,yes,Northern Region,public (Governemnt)
+774,774,41,male,34.2,2,no,Northern Region,private
+775,775,51,male,33.3,3,no,Ashanti Region,private
+776,776,40,male,32.3,2,no,Northern Region,private
+777,777,45,male,39.8,0,no,Central Region,private
+778,778,35,male,34.3,3,no,Ashanti Region,private
+779,779,53,male,28.9,0,no,Northern Region,private
+780,780,30,male,24.4,3,yes,Greater Accra Region,private
+781,781,18,male,41.1,0,no,Ashanti Region,private
+782,782,51,male,36.0,1,no,Ashanti Region,private
+783,783,50,female,27.6,1,yes,Greater Accra Region,public (Governemnt)
+784,784,31,female,29.3,1,no,Ashanti Region,public (Governemnt)
+785,785,35,female,27.7,3,no,Greater Accra Region,public (Governemnt)
+786,786,60,male,37.0,0,no,Central Region,private
+787,787,21,male,36.9,0,no,Northern Region,private
+788,788,29,male,22.5,3,no,Central Region,private
+789,789,62,female,29.9,0,no,Ashanti Region,public (Governemnt)
+790,790,39,female,41.8,0,no,Ashanti Region,public (Governemnt)
+791,791,19,male,27.6,0,no,Greater Accra Region,private
+792,792,22,female,23.2,0,no,Central Region,public (Governemnt)
+793,793,53,male,20.9,0,yes,Ashanti Region,private
+794,794,39,female,31.9,2,no,Northern Region,public (Governemnt)
+795,795,27,male,28.5,0,yes,Northern Region,private
+796,796,30,male,44.2,2,no,Ashanti Region,private
+797,797,30,female,22.9,1,no,Central Region,public (Governemnt)
+798,798,58,female,33.1,0,no,Greater Accra Region,public (Governemnt)
+799,799,33,male,24.8,0,yes,Central Region,private
+800,800,42,female,26.2,1,no,Ashanti Region,public (Governemnt)
+801,801,64,female,36.0,0,no,Ashanti Region,public (Governemnt)
+802,802,21,male,22.3,1,no,Greater Accra Region,private
+803,803,18,female,42.2,0,yes,Ashanti Region,public (Governemnt)
+804,804,23,male,26.5,0,no,Ashanti Region,private
+805,805,45,female,35.8,0,no,Northern Region,public (Governemnt)
+806,806,40,female,41.4,1,no,Northern Region,public (Governemnt)
+807,807,19,female,36.6,0,no,Northern Region,public (Governemnt)
+808,808,18,male,30.1,0,no,Ashanti Region,private
+809,809,25,male,25.8,1,no,Central Region,private
+810,810,46,female,30.8,3,no,Greater Accra Region,public (Governemnt)
+811,811,33,female,42.9,3,no,Northern Region,public (Governemnt)
+812,812,54,male,21.0,2,no,Ashanti Region,private
+813,813,28,male,22.5,2,no,Central Region,private
+814,814,36,male,34.4,2,no,Ashanti Region,private
+815,815,20,female,31.5,0,no,Ashanti Region,public (Governemnt)
+816,816,24,female,24.2,0,no,Northern Region,public (Governemnt)
+817,817,23,male,37.1,3,no,Greater Accra Region,private
+818,818,47,female,26.1,1,yes,Central Region,public (Governemnt)
+819,819,33,female,35.5,0,yes,Northern Region,public (Governemnt)
+820,820,45,male,33.7,1,no,Greater Accra Region,private
+821,821,26,male,17.7,0,no,Northern Region,private
+822,822,18,female,31.1,0,no,Ashanti Region,public (Governemnt)
+823,823,44,female,29.8,2,no,Ashanti Region,public (Governemnt)
+824,824,60,male,24.3,0,no,Northern Region,private
+825,825,64,female,31.8,2,no,Central Region,public (Governemnt)
+826,826,56,male,31.8,2,yes,Ashanti Region,private
+827,827,36,male,28.0,1,yes,Central Region,private
+828,828,41,male,30.8,3,yes,Central Region,private
+829,829,39,male,21.9,1,no,Northern Region,private
+830,830,63,male,33.1,0,no,Greater Accra Region,private
+831,831,36,female,25.8,0,no,Northern Region,public (Governemnt)
+832,832,28,female,23.8,2,no,Northern Region,public (Governemnt)
+833,833,58,male,34.4,0,no,Northern Region,private
+834,834,36,male,33.8,1,no,Northern Region,private
+835,835,42,male,36.0,2,no,Ashanti Region,private
+836,836,36,male,31.5,0,no,Greater Accra Region,private
+837,837,56,female,28.3,0,no,Central Region,public (Governemnt)
+838,838,35,female,23.5,2,no,Central Region,public (Governemnt)
+839,839,59,female,31.4,0,no,Northern Region,public (Governemnt)
+840,840,21,male,31.1,0,no,Greater Accra Region,private
+841,841,59,male,24.7,0,no,Central Region,private
+842,842,23,female,32.8,2,yes,Ashanti Region,public (Governemnt)
+843,843,57,female,29.8,0,yes,Ashanti Region,public (Governemnt)
+844,844,53,male,30.5,0,no,Central Region,private
+845,845,60,female,32.5,0,yes,Ashanti Region,public (Governemnt)
+846,846,51,female,34.2,1,no,Greater Accra Region,public (Governemnt)
+847,847,23,male,50.4,1,no,Ashanti Region,private
+848,848,27,female,24.1,0,no,Greater Accra Region,public (Governemnt)
+849,849,55,male,32.8,0,no,Northern Region,private
+850,850,37,female,30.8,0,yes,Central Region,public (Governemnt)
+851,851,61,male,32.3,2,no,Northern Region,private
+852,852,46,female,35.5,0,yes,Central Region,public (Governemnt)
+853,853,53,female,23.8,2,no,Central Region,public (Governemnt)
+854,854,49,female,23.8,3,yes,Central Region,public (Governemnt)
+855,855,20,female,29.6,0,no,Greater Accra Region,public (Governemnt)
+856,856,48,female,33.1,0,yes,Ashanti Region,public (Governemnt)
+857,857,25,male,24.1,0,yes,Northern Region,private
+858,858,25,female,32.2,1,no,Ashanti Region,public (Governemnt)
+859,859,57,male,28.1,0,no,Greater Accra Region,private
+860,860,37,female,47.6,2,yes,Greater Accra Region,public (Governemnt)
+861,861,38,female,28.0,3,no,Greater Accra Region,public (Governemnt)
+862,862,55,female,33.5,2,no,Northern Region,public (Governemnt)
+863,863,36,female,19.9,0,no,Central Region,public (Governemnt)
+864,864,51,male,25.4,0,no,Greater Accra Region,private
+865,865,40,male,29.9,2,no,Greater Accra Region,private
+866,866,18,male,37.3,0,no,Ashanti Region,private
+867,867,57,male,43.7,1,no,Greater Accra Region,private
+868,868,61,male,23.7,0,no,Central Region,private
+869,869,25,female,24.3,3,no,Greater Accra Region,public (Governemnt)
+870,870,50,male,36.2,0,no,Greater Accra Region,private
+871,871,26,female,29.5,1,no,Ashanti Region,public (Governemnt)
+872,872,42,male,24.9,0,no,Ashanti Region,private
+873,873,43,male,30.1,1,no,Greater Accra Region,private
+874,874,44,male,21.9,3,no,Central Region,private
+875,875,23,female,28.1,0,no,Northern Region,public (Governemnt)
+876,876,49,female,27.1,1,no,Greater Accra Region,public (Governemnt)
+877,877,33,male,33.4,5,no,Ashanti Region,private
+878,878,41,male,28.8,1,no,Greater Accra Region,private
+879,879,37,female,29.5,2,no,Greater Accra Region,public (Governemnt)
+880,880,22,male,34.8,3,no,Greater Accra Region,private
+881,881,23,male,27.4,1,no,Northern Region,private
+882,882,21,female,22.1,0,no,Central Region,public (Governemnt)
+883,883,51,female,37.1,3,yes,Central Region,public (Governemnt)
+884,884,25,male,26.7,4,no,Northern Region,private
+885,885,32,male,28.9,1,yes,Ashanti Region,private
+886,886,57,male,29.0,0,yes,Central Region,private
+887,887,36,female,30.0,0,no,Northern Region,public (Governemnt)
+888,888,22,male,39.5,0,no,Greater Accra Region,private
+889,889,57,male,33.6,1,no,Northern Region,private
+890,890,64,female,26.9,0,yes,Northern Region,public (Governemnt)
+891,891,36,female,29.0,4,no,Ashanti Region,public (Governemnt)
+892,892,54,male,24.0,0,no,Central Region,private
+893,893,47,male,38.9,2,yes,Ashanti Region,private
+894,894,62,male,32.1,0,no,Central Region,private
+895,895,61,female,44.0,0,no,Greater Accra Region,public (Governemnt)
+896,896,43,female,20.0,2,yes,Central Region,public (Governemnt)
+897,897,19,male,25.6,1,no,Northern Region,private
+898,898,18,female,40.3,0,no,Ashanti Region,public (Governemnt)
+899,899,19,female,22.5,0,no,Northern Region,public (Governemnt)
+900,900,49,male,22.5,0,no,Central Region,private
+901,901,60,male,40.9,0,yes,Ashanti Region,private
+902,902,26,male,27.3,3,no,Central Region,private
+903,903,49,male,36.9,0,no,Ashanti Region,private
+904,904,60,female,35.1,0,no,Greater Accra Region,public (Governemnt)
+905,905,26,female,29.4,2,no,Central Region,public (Governemnt)
+906,906,27,male,32.6,3,no,Central Region,private
+907,907,44,female,32.3,1,no,Ashanti Region,public (Governemnt)
+908,908,63,male,39.8,3,no,Greater Accra Region,private
+909,909,32,female,24.6,0,yes,Greater Accra Region,public (Governemnt)
+910,910,22,male,28.3,1,no,Northern Region,private
+911,911,18,male,31.7,0,yes,Central Region,private
+912,912,59,female,26.7,3,no,Northern Region,public (Governemnt)
+913,913,44,female,27.5,1,no,Greater Accra Region,public (Governemnt)
+914,914,33,male,24.6,2,no,Northern Region,private
+915,915,24,female,34.0,0,no,Ashanti Region,public (Governemnt)
+916,916,43,female,26.9,0,yes,Northern Region,public (Governemnt)
+917,917,45,male,22.9,0,yes,Central Region,private
+918,918,61,female,28.2,0,no,Greater Accra Region,public (Governemnt)
+919,919,35,female,34.2,1,no,Ashanti Region,public (Governemnt)
+920,920,62,female,25.0,0,no,Greater Accra Region,public (Governemnt)
+921,921,62,female,33.2,0,no,Greater Accra Region,public (Governemnt)
+922,922,38,male,31.0,1,no,Greater Accra Region,private
+923,923,34,male,35.8,0,no,Northern Region,private
+924,924,43,male,23.2,0,no,Greater Accra Region,private
+925,925,50,male,32.1,2,no,Central Region,private
+926,926,19,female,23.4,2,no,Greater Accra Region,public (Governemnt)
+927,927,57,female,20.1,1,no,Greater Accra Region,public (Governemnt)
+928,928,62,female,39.2,0,no,Ashanti Region,public (Governemnt)
+929,929,41,male,34.2,1,no,Ashanti Region,private
+930,930,26,male,46.5,1,no,Ashanti Region,private
+931,931,39,female,32.5,1,no,Greater Accra Region,public (Governemnt)
+932,932,46,male,25.8,5,no,Greater Accra Region,private
+933,933,45,female,35.3,0,no,Greater Accra Region,public (Governemnt)
+934,934,32,male,37.2,2,no,Ashanti Region,private
+935,935,59,female,27.5,0,no,Greater Accra Region,public (Governemnt)
+936,936,44,male,29.7,2,no,Central Region,private
+937,937,39,female,24.2,5,no,Northern Region,public (Governemnt)
+938,938,18,male,26.2,2,no,Ashanti Region,private
+939,939,53,male,29.5,0,no,Ashanti Region,private
+940,940,18,male,23.2,0,no,Ashanti Region,private
+941,941,50,female,46.1,1,no,Ashanti Region,public (Governemnt)
+942,942,18,female,40.2,0,no,Central Region,public (Governemnt)
+943,943,19,male,22.6,0,no,Northern Region,private
+944,944,62,male,39.9,0,no,Ashanti Region,private
+945,945,56,female,35.8,1,no,Greater Accra Region,public (Governemnt)
+946,946,42,male,35.8,2,no,Greater Accra Region,private
+947,947,37,male,34.2,1,yes,Central Region,private
+948,948,42,male,31.3,0,no,Northern Region,private
+949,949,25,male,29.7,3,yes,Greater Accra Region,private
+950,950,57,male,18.3,0,no,Central Region,private
+951,951,51,male,42.9,2,yes,Ashanti Region,private
+952,952,30,female,28.4,1,no,Northern Region,public (Governemnt)
+953,953,44,male,30.2,2,yes,Greater Accra Region,private
+954,954,34,male,27.8,1,yes,Northern Region,private
+955,955,31,male,39.5,1,no,Ashanti Region,private
+956,956,54,male,30.8,1,yes,Ashanti Region,private
+957,957,24,male,26.8,1,no,Northern Region,private
+958,958,43,male,35.0,1,yes,Central Region,private
+959,959,48,male,36.7,1,no,Northern Region,private
+960,960,19,female,39.6,1,no,Northern Region,public (Governemnt)
+961,961,29,female,25.9,0,no,Greater Accra Region,public (Governemnt)
+962,962,63,female,35.2,1,no,Ashanti Region,public (Governemnt)
+963,963,46,male,24.8,3,no,Central Region,private
+964,964,52,male,36.8,2,no,Northern Region,private
+965,965,35,male,27.1,1,no,Greater Accra Region,private
+966,966,51,male,24.8,2,yes,Northern Region,private
+967,967,44,male,25.4,1,no,Northern Region,private
+968,968,21,male,25.7,2,no,Central Region,private
+969,969,39,female,34.3,5,no,Ashanti Region,public (Governemnt)
+970,970,50,female,28.2,3,no,Ashanti Region,public (Governemnt)
+971,971,34,female,23.6,0,no,Central Region,public (Governemnt)
+972,972,22,female,20.2,0,no,Northern Region,public (Governemnt)
+973,973,19,female,40.5,0,no,Greater Accra Region,public (Governemnt)
+974,974,26,male,35.4,0,no,Ashanti Region,private
+975,975,29,male,22.9,0,yes,Central Region,private
+976,976,48,male,40.2,0,no,Ashanti Region,private
+977,977,26,male,29.2,1,no,Ashanti Region,private
+978,978,45,female,40.0,3,no,Central Region,public (Governemnt)
+979,979,36,female,29.9,0,no,Ashanti Region,public (Governemnt)
+980,980,54,male,25.5,1,no,Central Region,private
+981,981,34,male,21.4,0,no,Central Region,private
+982,982,31,male,25.9,3,yes,Greater Accra Region,private
+983,983,27,female,30.6,1,no,Central Region,public (Governemnt)
+984,984,20,male,30.1,5,no,Central Region,private
+985,985,44,female,25.8,1,no,Greater Accra Region,public (Governemnt)
+986,986,43,male,30.1,3,no,Northern Region,private
+987,987,45,female,27.6,1,no,Northern Region,public (Governemnt)
+988,988,34,male,34.7,0,no,Central Region,private
+989,989,24,female,20.5,0,yes,Central Region,public (Governemnt)
+990,990,26,female,19.8,1,no,Greater Accra Region,public (Governemnt)
+991,991,38,female,27.8,2,no,Central Region,public (Governemnt)
+992,992,50,female,31.6,2,no,Greater Accra Region,public (Governemnt)
+993,993,38,male,28.3,1,no,Ashanti Region,private
+994,994,27,female,20.0,3,yes,Northern Region,public (Governemnt)
+995,995,39,female,23.3,3,no,Central Region,public (Governemnt)
+996,996,39,female,34.1,3,no,Greater Accra Region,public (Governemnt)
+997,997,63,female,36.9,0,no,Ashanti Region,public (Governemnt)
+998,998,33,female,36.3,3,no,Central Region,public (Governemnt)
+999,999,36,female,26.9,0,no,Northern Region,public (Governemnt)
+1000,1000,30,male,23.0,2,yes,Northern Region,private
+1001,1001,24,male,32.7,0,yes,Greater Accra Region,private
+1002,1002,24,male,25.8,0,no,Greater Accra Region,private
+1003,1003,48,male,29.6,0,no,Greater Accra Region,private
+1004,1004,47,male,19.2,1,no,Central Region,private
+1005,1005,29,male,31.7,2,no,Northern Region,private
+1006,1006,28,male,29.3,2,no,Central Region,private
+1007,1007,47,male,28.2,3,yes,Northern Region,private
+1008,1008,25,male,25.0,2,no,Central Region,private
+1009,1009,51,male,27.7,1,no,Central Region,private
+1010,1010,48,female,22.8,0,no,Greater Accra Region,public (Governemnt)
+1011,1011,43,male,20.1,2,yes,Ashanti Region,private
+1012,1012,61,female,33.3,4,no,Ashanti Region,public (Governemnt)
+1013,1013,48,male,32.3,1,no,Northern Region,private
+1014,1014,38,female,27.6,0,no,Greater Accra Region,public (Governemnt)
+1015,1015,59,male,25.5,0,no,Northern Region,private
+1016,1016,19,female,24.6,1,no,Northern Region,public (Governemnt)
+1017,1017,26,female,34.2,2,no,Greater Accra Region,public (Governemnt)
+1018,1018,54,female,35.8,3,no,Northern Region,public (Governemnt)
+1019,1019,21,female,32.7,2,no,Northern Region,public (Governemnt)
+1020,1020,51,male,37.0,0,no,Greater Accra Region,private
+1021,1021,22,female,31.0,3,yes,Ashanti Region,public (Governemnt)
+1022,1022,47,male,36.1,1,yes,Ashanti Region,private
+1023,1023,18,male,23.3,1,no,Ashanti Region,private
+1024,1024,47,female,45.3,1,no,Ashanti Region,public (Governemnt)
+1025,1025,21,female,34.6,0,no,Greater Accra Region,public (Governemnt)
+1026,1026,19,male,26.0,1,yes,Northern Region,private
+1027,1027,23,male,18.7,0,no,Northern Region,private
+1028,1028,54,male,31.6,0,no,Greater Accra Region,private
+1029,1029,37,female,17.3,2,no,Central Region,public (Governemnt)
+1030,1030,46,female,23.7,1,yes,Northern Region,public (Governemnt)
+1031,1031,55,female,35.2,0,yes,Ashanti Region,public (Governemnt)
+1032,1032,30,female,27.9,0,no,Central Region,public (Governemnt)
+1033,1033,18,male,21.6,0,yes,Central Region,private
+1034,1034,61,male,38.4,0,no,Northern Region,private
+1035,1035,54,female,23.0,3,no,Greater Accra Region,public (Governemnt)
+1036,1036,22,male,37.1,2,yes,Ashanti Region,private
+1037,1037,45,female,30.5,1,yes,Northern Region,public (Governemnt)
+1038,1038,22,male,28.9,0,no,Central Region,private
+1039,1039,19,male,27.3,2,no,Northern Region,private
+1040,1040,35,female,28.0,0,yes,Northern Region,public (Governemnt)
+1041,1041,18,male,23.1,0,no,Central Region,private
+1042,1042,20,male,30.7,0,yes,Central Region,private
+1043,1043,28,female,25.8,0,no,Greater Accra Region,public (Governemnt)
+1044,1044,55,male,35.2,1,no,Central Region,private
+1045,1045,43,female,24.7,2,yes,Northern Region,public (Governemnt)
+1046,1046,43,female,25.1,0,no,Central Region,public (Governemnt)
+1047,1047,22,male,52.6,1,yes,Ashanti Region,private
+1048,1048,25,female,22.5,1,no,Northern Region,public (Governemnt)
+1049,1049,49,male,30.9,0,yes,Greater Accra Region,private
+1050,1050,44,female,37.0,1,no,Northern Region,public (Governemnt)
+1051,1051,64,male,26.4,0,no,Central Region,private
+1052,1052,49,male,29.8,1,no,Central Region,private
+1053,1053,47,male,29.8,3,yes,Greater Accra Region,private
+1054,1054,27,female,21.5,0,no,Northern Region,public (Governemnt)
+1055,1055,55,male,27.6,0,no,Northern Region,private
+1056,1056,48,female,28.9,0,no,Greater Accra Region,public (Governemnt)
+1057,1057,45,female,31.8,0,no,Ashanti Region,public (Governemnt)
+1058,1058,24,female,39.5,0,no,Ashanti Region,public (Governemnt)
+1059,1059,32,male,33.8,1,no,Northern Region,private
+1060,1060,24,male,32.0,0,no,Ashanti Region,private
+1061,1061,57,male,27.9,1,no,Ashanti Region,private
+1062,1062,59,male,41.1,1,yes,Ashanti Region,private
+1063,1063,36,male,28.6,3,no,Northern Region,private
+1064,1064,29,female,25.6,4,no,Greater Accra Region,public (Governemnt)
+1065,1065,42,female,25.3,1,no,Greater Accra Region,public (Governemnt)
+1066,1066,48,male,37.3,2,no,Ashanti Region,private
+1067,1067,39,male,42.7,0,no,Central Region,private
+1068,1068,63,male,21.7,1,no,Northern Region,private
+1069,1069,54,female,31.9,1,no,Ashanti Region,public (Governemnt)
+1070,1070,37,male,37.1,1,yes,Ashanti Region,private
+1071,1071,63,male,31.4,0,no,Central Region,private
+1072,1072,21,male,31.3,0,no,Northern Region,private
+1073,1073,54,female,28.9,2,no,Central Region,public (Governemnt)
+1074,1074,60,female,18.3,0,no,Central Region,public (Governemnt)
+1075,1075,32,female,29.6,1,no,Ashanti Region,public (Governemnt)
+1076,1076,47,female,32.0,1,no,Greater Accra Region,public (Governemnt)
+1077,1077,21,male,26.0,0,no,Central Region,private
+1078,1078,28,male,31.7,0,yes,Ashanti Region,private
+1079,1079,63,male,33.7,3,no,Ashanti Region,private
+1080,1080,18,male,21.8,2,no,Ashanti Region,private
+1081,1081,32,male,27.8,1,no,Northern Region,private
+1082,1082,38,male,20.0,1,no,Northern Region,private
+1083,1083,32,male,31.5,1,no,Greater Accra Region,private
+1084,1084,62,female,30.5,2,no,Northern Region,public (Governemnt)
+1085,1085,39,female,18.3,5,yes,Greater Accra Region,public (Governemnt)
+1086,1086,55,male,29.0,0,no,Central Region,private
+1087,1087,57,male,31.5,0,no,Northern Region,private
+1088,1088,52,male,47.7,1,no,Ashanti Region,private
+1089,1089,56,male,22.1,0,no,Greater Accra Region,private
+1090,1090,47,male,36.2,0,yes,Ashanti Region,private
+1091,1091,55,female,29.8,0,no,Central Region,public (Governemnt)
+1092,1092,23,male,32.7,3,no,Greater Accra Region,private
+1093,1093,22,female,30.4,0,yes,Northern Region,public (Governemnt)
+1094,1094,50,female,33.7,4,no,Greater Accra Region,public (Governemnt)
+1095,1095,18,female,31.4,4,no,Central Region,public (Governemnt)
+1096,1096,51,female,35.0,2,yes,Central Region,public (Governemnt)
+1097,1097,22,male,33.8,0,no,Ashanti Region,private
+1098,1098,52,female,30.9,0,no,Central Region,public (Governemnt)
+1099,1099,25,female,34.0,1,no,Ashanti Region,public (Governemnt)
+1100,1100,33,female,19.1,2,yes,Central Region,public (Governemnt)
+1101,1101,53,male,28.6,3,no,Greater Accra Region,private
+1102,1102,29,male,38.9,1,no,Ashanti Region,private
+1103,1103,58,male,36.1,0,no,Ashanti Region,private
+1104,1104,37,male,29.8,0,no,Greater Accra Region,private
+1105,1105,54,female,31.2,0,no,Ashanti Region,public (Governemnt)
+1106,1106,49,female,29.9,0,no,Northern Region,public (Governemnt)
+1107,1107,50,female,26.2,2,no,Northern Region,public (Governemnt)
+1108,1108,26,male,30.0,1,no,Greater Accra Region,private
+1109,1109,45,male,20.4,3,no,Ashanti Region,private
+1110,1110,54,female,32.3,1,no,Central Region,public (Governemnt)
+1111,1111,38,male,38.4,3,yes,Ashanti Region,private
+1112,1112,48,female,25.9,3,yes,Ashanti Region,public (Governemnt)
+1113,1113,28,female,26.3,3,no,Northern Region,public (Governemnt)
+1114,1114,23,male,24.5,0,no,Central Region,private
+1115,1115,55,male,32.7,1,no,Ashanti Region,private
+1116,1116,41,male,29.6,5,no,Central Region,private
+1117,1117,25,male,33.3,2,yes,Ashanti Region,private
+1118,1118,33,male,35.8,1,yes,Ashanti Region,private
+1119,1119,30,female,20.0,3,no,Northern Region,public (Governemnt)
+1120,1120,23,female,31.4,0,yes,Greater Accra Region,public (Governemnt)
+1121,1121,46,male,38.2,2,no,Ashanti Region,private
+1122,1122,53,female,36.9,3,yes,Northern Region,public (Governemnt)
+1123,1123,27,female,32.4,1,no,Central Region,public (Governemnt)
+1124,1124,23,female,42.8,1,yes,Central Region,public (Governemnt)
+1125,1125,63,female,25.1,0,no,Northern Region,public (Governemnt)
+1126,1126,55,male,29.9,0,no,Greater Accra Region,private
+1127,1127,35,female,35.9,2,no,Ashanti Region,public (Governemnt)
+1128,1128,34,male,32.8,1,no,Greater Accra Region,private
+1129,1129,19,female,18.6,0,no,Greater Accra Region,public (Governemnt)
+1130,1130,39,female,23.9,5,no,Ashanti Region,public (Governemnt)
+1131,1131,27,male,45.9,2,no,Greater Accra Region,private
+1132,1132,57,male,40.3,0,no,Central Region,private
+1133,1133,52,female,18.3,0,no,Northern Region,public (Governemnt)
+1134,1134,28,male,33.8,0,no,Northern Region,private
+1135,1135,50,female,28.1,3,no,Northern Region,public (Governemnt)
+1136,1136,44,female,25.0,1,no,Greater Accra Region,public (Governemnt)
+1137,1137,26,female,22.2,0,no,Northern Region,public (Governemnt)
+1138,1138,33,male,30.3,0,no,Ashanti Region,private
+1139,1139,19,female,32.5,0,yes,Northern Region,public (Governemnt)
+1140,1140,50,male,37.1,1,no,Ashanti Region,private
+1141,1141,41,female,32.6,3,no,Greater Accra Region,public (Governemnt)
+1142,1142,52,female,24.9,0,no,Ashanti Region,public (Governemnt)
+1143,1143,39,male,32.3,2,no,Ashanti Region,private
+1144,1144,50,male,32.3,2,no,Greater Accra Region,private
+1145,1145,52,male,32.8,3,no,Northern Region,private
+1146,1146,60,male,32.8,0,yes,Greater Accra Region,private
+1147,1147,20,female,31.9,0,no,Northern Region,public (Governemnt)
+1148,1148,55,male,21.5,1,no,Greater Accra Region,private
+1149,1149,42,male,34.1,0,no,Greater Accra Region,private
+1150,1150,18,female,30.3,0,no,Central Region,public (Governemnt)
+1151,1151,58,female,36.5,0,no,Northern Region,public (Governemnt)
+1152,1152,43,female,32.6,3,yes,Ashanti Region,public (Governemnt)
+1153,1153,35,female,35.8,1,no,Northern Region,public (Governemnt)
+1154,1154,48,female,27.9,4,no,Northern Region,public (Governemnt)
+1155,1155,36,female,22.1,3,no,Central Region,public (Governemnt)
+1156,1156,19,male,44.9,0,yes,Ashanti Region,private
+1157,1157,23,female,23.2,2,no,Northern Region,public (Governemnt)
+1158,1158,20,female,30.6,0,no,Central Region,public (Governemnt)
+1159,1159,32,female,41.1,0,no,Greater Accra Region,public (Governemnt)
+1160,1160,43,female,34.6,1,no,Northern Region,public (Governemnt)
+1161,1161,34,male,42.1,2,no,Ashanti Region,private
+1162,1162,30,male,38.8,1,no,Ashanti Region,private
+1163,1163,18,female,28.2,0,no,Central Region,public (Governemnt)
+1164,1164,41,female,28.3,1,no,Northern Region,public (Governemnt)
+1165,1165,35,female,26.1,0,no,Central Region,public (Governemnt)
+1166,1166,57,male,40.4,0,no,Ashanti Region,private
+1167,1167,29,female,24.6,2,no,Greater Accra Region,public (Governemnt)
+1168,1168,32,male,35.2,2,no,Greater Accra Region,private
+1169,1169,37,female,34.1,1,no,Northern Region,public (Governemnt)
+1170,1170,18,male,27.4,1,yes,Central Region,private
+1171,1171,43,female,26.7,2,yes,Greater Accra Region,public (Governemnt)
+1172,1172,56,female,41.9,0,no,Ashanti Region,public (Governemnt)
+1173,1173,38,male,29.3,2,no,Northern Region,private
+1174,1174,29,male,32.1,2,no,Northern Region,private
+1175,1175,22,female,27.1,0,no,Greater Accra Region,public (Governemnt)
+1176,1176,52,female,24.1,1,yes,Northern Region,public (Governemnt)
+1177,1177,40,female,27.4,1,no,Greater Accra Region,public (Governemnt)
+1178,1178,23,female,34.9,0,no,Central Region,public (Governemnt)
+1179,1179,31,male,29.8,0,yes,Ashanti Region,private
+1180,1180,42,female,41.3,1,no,Central Region,public (Governemnt)
+1181,1181,24,female,29.9,0,no,Northern Region,public (Governemnt)
+1182,1182,25,female,30.3,0,no,Greater Accra Region,public (Governemnt)
+1183,1183,48,female,27.4,1,no,Central Region,public (Governemnt)
+1184,1184,23,female,28.5,1,yes,Ashanti Region,public (Governemnt)
+1185,1185,45,male,23.6,2,no,Central Region,private
+1186,1186,20,male,35.6,3,yes,Northern Region,private
+1187,1187,62,female,32.7,0,no,Northern Region,public (Governemnt)
+1188,1188,43,female,25.3,1,yes,Central Region,public (Governemnt)
+1189,1189,23,trans,28.0,0,no,Greater Accra Region,public (Governemnt)
+1190,1190,31,female,32.8,2,no,Northern Region,public (Governemnt)
+1191,1191,41,female,21.8,1,no,Central Region,public (Governemnt)
+1192,1192,58,female,32.4,1,no,Central Region,public (Governemnt)
+1193,1193,48,trans,36.6,0,no,Northern Region,public (Governemnt)
+1194,1194,31,female,21.8,0,no,Northern Region,public (Governemnt)
+1195,1195,19,female,27.9,3,no,Northern Region,public (Governemnt)
+1196,1196,19,female,30.0,0,yes,Northern Region,public (Governemnt)
+1197,1197,41,male,33.6,0,no,Ashanti Region,private
+1198,1198,40,male,29.4,1,no,Northern Region,private
+1199,1199,31,female,25.8,2,no,Greater Accra Region,public (Governemnt)
+1200,1200,37,male,24.3,2,no,Northern Region,private
+1201,1201,46,male,40.4,2,no,Northern Region,private
+1202,1202,22,male,32.1,0,no,Northern Region,private
+1203,1203,51,male,32.3,1,no,Central Region,private
+1204,1204,18,trans,27.3,3,yes,Ashanti Region,public (Governemnt)
+1205,1205,35,male,17.9,1,no,Northern Region,private
+1206,1206,59,female,34.8,2,no,Greater Accra Region,public (Governemnt)
+1207,1207,36,male,33.4,2,yes,Greater Accra Region,private
+1208,1208,37,female,25.6,1,yes,Central Region,public (Governemnt)
+1209,1209,59,male,37.1,1,no,Greater Accra Region,private
+1210,1210,36,male,30.9,1,no,Northern Region,private
+1211,1211,39,male,34.1,2,no,Ashanti Region,private
+1212,1212,18,male,21.5,0,no,Central Region,private
+1213,1213,52,female,33.3,2,no,Greater Accra Region,public (Governemnt)
+1214,1214,27,female,31.3,1,no,Northern Region,public (Governemnt)
+1215,1215,18,male,39.1,0,no,Central Region,private
+1216,1216,40,male,25.1,0,no,Ashanti Region,private
+1217,1217,29,male,37.3,2,no,Ashanti Region,private
+1218,1218,46,female,34.6,1,yes,Greater Accra Region,public (Governemnt)
+1219,1219,38,female,30.2,3,no,Northern Region,public (Governemnt)
+1220,1220,30,trans,21.9,1,no,Central Region,public (Governemnt)
+1221,1221,40,male,25.0,2,no,Ashanti Region,private
+1222,1222,50,male,25.3,0,no,Ashanti Region,private
+1223,1223,20,trans,24.4,0,yes,Ashanti Region,public (Governemnt)
+1224,1224,41,male,23.9,1,no,Central Region,private
+1225,1225,33,female,39.8,1,no,Ashanti Region,public (Governemnt)
+1226,1226,38,male,16.8,2,no,Central Region,private
+1227,1227,42,male,37.2,2,no,Ashanti Region,private
+1228,1228,56,male,34.4,0,no,Ashanti Region,private
+1229,1229,58,male,30.3,0,no,Central Region,private
+1230,1230,52,male,34.5,3,yes,Northern Region,private
+1231,1231,20,female,21.8,0,yes,Greater Accra Region,public (Governemnt)
+1232,1232,54,female,24.6,3,no,Northern Region,public (Governemnt)
+1233,1233,58,male,23.3,0,no,Greater Accra Region,private
+1234,1234,45,female,27.8,2,no,Ashanti Region,public (Governemnt)
+1235,1235,26,male,31.1,0,no,Northern Region,private
+1236,1236,63,female,21.7,0,no,Central Region,public (Governemnt)
+1237,1237,58,female,28.2,0,no,Northern Region,public (Governemnt)
+1238,1238,37,male,22.7,3,no,Central Region,private
+1239,1239,25,female,42.1,1,no,Ashanti Region,public (Governemnt)
+1240,1240,52,male,41.8,2,yes,Ashanti Region,private
+1241,1241,64,male,37.0,2,yes,Ashanti Region,private
+1242,1242,22,female,21.3,3,no,Northern Region,public (Governemnt)
+1243,1243,28,trans,33.1,0,no,Ashanti Region,public (Governemnt)
+1244,1244,18,male,33.3,0,no,Ashanti Region,private
+1245,1245,28,male,24.3,5,no,Greater Accra Region,private
+1246,1246,45,female,25.7,3,no,Greater Accra Region,public (Governemnt)
+1247,1247,33,male,29.4,4,no,Greater Accra Region,private
+1248,1248,18,female,39.8,0,no,Ashanti Region,public (Governemnt)
+1249,1249,32,male,33.6,1,yes,Central Region,private
+1250,1250,24,male,29.8,0,yes,Central Region,private
+1251,1251,19,male,19.8,0,no,Greater Accra Region,private
+1252,1252,20,male,27.3,0,yes,Greater Accra Region,private
+1253,1253,40,female,29.3,4,no,Greater Accra Region,public (Governemnt)
+1254,1254,34,female,27.7,0,no,Ashanti Region,public (Governemnt)
+1255,1255,42,female,37.9,0,no,Greater Accra Region,public (Governemnt)
+1256,1256,51,female,36.4,3,no,Northern Region,public (Governemnt)
+1257,1257,54,female,27.6,1,no,Northern Region,public (Governemnt)
+1258,1258,55,male,37.7,3,no,Northern Region,private
+1259,1259,52,female,23.2,0,no,Central Region,public (Governemnt)
+1260,1260,32,female,20.5,0,no,Central Region,public (Governemnt)
+1261,1261,28,male,37.1,1,no,Greater Accra Region,private
+1262,1262,41,female,28.1,1,no,Ashanti Region,public (Governemnt)
+1263,1263,43,female,29.9,1,no,Greater Accra Region,public (Governemnt)
+1264,1264,49,female,33.3,2,no,Central Region,public (Governemnt)
+1265,1265,64,male,23.8,0,yes,Ashanti Region,private
+1266,1266,55,female,30.5,0,no,Greater Accra Region,public (Governemnt)
+1267,1267,24,male,31.1,0,yes,Central Region,private
+1268,1268,20,female,33.3,0,no,Greater Accra Region,public (Governemnt)
+1269,1269,45,male,27.5,3,no,Greater Accra Region,private
+1270,1270,26,male,33.9,1,no,Northern Region,private
+1271,1271,25,female,34.5,0,no,Northern Region,public (Governemnt)
+1272,1272,43,male,25.5,5,no,Ashanti Region,private
+1273,1273,35,male,27.6,1,no,Ashanti Region,private
+1274,1274,26,male,27.1,0,yes,Ashanti Region,private
+1275,1275,57,male,23.7,0,no,Greater Accra Region,private
+1276,1276,22,female,30.4,0,no,Central Region,public (Governemnt)
+1277,1277,32,female,29.7,0,no,Northern Region,public (Governemnt)
+1278,1278,39,male,29.9,1,yes,Central Region,private
+1279,1279,25,female,26.8,2,no,Northern Region,public (Governemnt)
+1280,1280,48,trans,33.3,0,no,Ashanti Region,public (Governemnt)
+1281,1281,47,female,27.6,2,yes,Northern Region,public (Governemnt)
+1282,1282,18,female,21.7,0,yes,Central Region,public (Governemnt)
+1283,1283,18,male,30.0,1,no,Ashanti Region,private
+1284,1284,61,male,36.3,1,yes,Greater Accra Region,private
+1285,1285,47,female,24.3,0,no,Central Region,public (Governemnt)
+1286,1286,28,female,17.3,0,no,Central Region,public (Governemnt)
+1287,1287,36,female,25.9,1,no,Greater Accra Region,public (Governemnt)
+1288,1288,20,male,39.4,2,yes,Greater Accra Region,private
+1289,1289,44,male,34.3,1,no,Ashanti Region,private
+1290,1290,38,female,20.0,2,no,Central Region,public (Governemnt)
+1291,1291,19,male,34.9,0,yes,Greater Accra Region,private
+1292,1292,21,male,23.2,0,no,Ashanti Region,private
+1293,1293,46,male,25.7,3,no,Northern Region,private
+1294,1294,58,male,25.2,0,no,Central Region,private
+1295,1295,20,male,22.0,1,no,Greater Accra Region,private
+1296,1296,18,male,26.1,0,no,Central Region,private
+1297,1297,28,female,26.5,2,no,Ashanti Region,public (Governemnt)
+1298,1298,33,male,27.5,2,no,Northern Region,private
+1299,1299,19,female,25.7,1,no,Northern Region,public (Governemnt)
+1300,1300,45,male,30.4,0,yes,Ashanti Region,private
+1301,1301,62,male,30.9,3,yes,Northern Region,private
+1302,1302,25,female,20.8,1,no,Greater Accra Region,public (Governemnt)
+1303,1303,43,male,27.8,0,yes,Greater Accra Region,private
+1304,1304,42,male,24.6,2,yes,Central Region,private
+1305,1305,24,female,27.7,0,no,Ashanti Region,public (Governemnt)
+1306,1306,29,female,21.9,0,yes,Central Region,public (Governemnt)
+1307,1307,32,male,28.1,4,yes,Northern Region,private
+1308,1308,25,female,30.2,0,yes,Greater Accra Region,public (Governemnt)
+1309,1309,41,male,32.2,2,no,Greater Accra Region,private
+1310,1310,42,male,26.3,1,no,Northern Region,private
+1311,1311,33,female,26.7,0,no,Northern Region,public (Governemnt)
+1312,1312,34,male,42.9,1,no,Greater Accra Region,private
+1313,1313,19,female,34.7,2,yes,Greater Accra Region,public (Governemnt)
+1314,1314,30,female,23.7,3,yes,Northern Region,public (Governemnt)
+1315,1315,18,male,28.3,1,no,Central Region,private
+1316,1316,19,female,20.6,0,no,Greater Accra Region,public (Governemnt)
+1317,1317,18,male,53.1,0,no,Ashanti Region,private
+1318,1318,35,male,39.7,4,no,Central Region,private
+1319,1319,39,female,26.3,2,no,Northern Region,public (Governemnt)
+1320,1320,31,male,31.1,3,no,Northern Region,private
+1321,1321,62,male,26.7,0,yes,Central Region,private
+1322,1322,62,male,38.8,0,no,Ashanti Region,private
+1323,1323,42,female,40.4,2,yes,Ashanti Region,public (Governemnt)
+1324,1324,31,male,25.9,1,no,Northern Region,private
+1325,1325,61,male,33.5,0,no,Central Region,private
+1326,1326,42,female,32.9,0,no,Central Region,public (Governemnt)
+1327,1327,51,male,30.0,1,no,Ashanti Region,private
+1328,1328,23,female,24.2,2,no,Central Region,public (Governemnt)
+1329,1329,52,male,38.6,2,no,Greater Accra Region,private
+1330,1330,57,female,25.7,2,no,Ashanti Region,public (Governemnt)
+1331,1331,23,female,33.4,0,no,Greater Accra Region,public (Governemnt)
+1332,1332,52,female,44.7,3,no,Greater Accra Region,public (Governemnt)
+1333,1333,50,male,31.0,3,no,Northern Region,private
+1334,1334,18,female,31.9,0,no,Central Region,public (Governemnt)
+1335,1335,18,female,36.9,0,no,Ashanti Region,public (Governemnt)
+1336,1336,21,female,25.8,0,no,Greater Accra Region,public (Governemnt)
+1337,1337,61,female,29.1,0,yes,Northern Region,public (Governemnt)
