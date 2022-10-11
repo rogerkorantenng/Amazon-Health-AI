@@ -2,16 +2,15 @@
 
 This app is built with Flask, using trained models
 
-This project contains a folder and two files namely(requirements.txt and app.py). The folder cantains the template index.html
+This project contains two folders(static and templates) and files namely(requirements.txt, app.py, Health-AI.ipynb). The template folder cantains the  index.html, which serves our app template using jinja 2. Jinja 2 is a python template programming language for designing templates for Flask apps. 
+The Health-Ai.ipynb file was how we trained our model using Gradiant Boosting regression and Decision Tree.
 
-The index.html file serves as the template for the app and is rendered to the flask app through Jinja2
 
-The app.py conatains the actual code
+The app.py conatains the actual code, which uses Flask and pickle to predict the outcome in Ghana Cedis
 
 The requirements.txt contains a list of all python libraries to be installed
 
-The model folder contains the jupyter notebook file which was saved from Sagemaker studio's after training
-How to Install Locally
+
 
 Before running the app.py file its required of you to install all python libraries listed in the requirement.txt file. To install the python libraries, you first need to install pip, pip3 is a standard package manager for python
 
