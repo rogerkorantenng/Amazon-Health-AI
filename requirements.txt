@@ -1,7 +1,3 @@
-astroid==2.5.6
-attrs==21.2.0
-backcall==0.2.0
-certifi==2021.5.30
 click==8.0.1
 colorama==0.4.4
 cycler==0.10.0
@@ -17,9 +13,6 @@ jedi==0.18.0
 Jinja2==3.0.1
 joblib==1.0.1
 jsonschema==3.2.0
-jupyter-client==6.1.12
-jupyter-core==4.7.1
-kiwisolver==1.3.1
 lazy-object-proxy==1.6.0
 MarkupSafe==2.0.1
 matplotlib==3.4.3
@@ -50,8 +43,4 @@ tenacity==8.0.1
 threadpoolctl==2.2.0
 toml==0.10.2
 tornado==6.1
-traitlets==5.0.5
-wcwidth==0.2.5
-Werkzeug==2.0.1
-wincertstore==0.2
-wrapt==1.12.1
+Werkzeug==2.0.5
