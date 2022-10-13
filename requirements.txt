@@ -39,7 +39,6 @@ scipy==1.6.3
 seaborn==0.11.2
 sklearn==0.0
 statsmodels==0.12.2
-tenacity==8.0.1
 threadpoolctl==2.2.0
 toml==0.10.2
 tornado==6.1
